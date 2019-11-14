@@ -1,0 +1,31 @@
+.game {
+	background-color: lightblue;
+	text-align: center;
+}
+
+.guess {
+	padding: 20px;
+}
+
+form {
+	padding: 20px 0 0 0;
+}
+
+#success {
+	height: 100px;
+	width: 400px;
+	background: white;
+	position: absolute;
+	left: 50%;
+	margin: 20px 0 0 -200px;
+	border: 1px solid #000;
+	display: none;
+}
+
+#success p {
+	padding: 20px;
+}
+
+#counter {
+	padding-bottom: 20px;
+}
